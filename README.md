@@ -20,4 +20,4 @@ Website: https://frontend-food-app.onrender.com/
 
 `npm install` to install all the dependencies.
 
-`npm run dev` to start the application.
+`npm start` to start the application.
