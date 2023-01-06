@@ -2,7 +2,7 @@
 
 **MERN** stack food ordering application.
 
-Website: [https://foodtime-app.herokuapp.com](https://foodtime-app.herokuapp.com)
+Website: https://frontend-food-app.onrender.com/
 
 ### Technologies Used
 
